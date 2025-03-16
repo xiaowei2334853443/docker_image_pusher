@@ -1,1 +1,2 @@
-snowdreamtech/frpc
+mariadb:10.6
+php:8.2-apache
