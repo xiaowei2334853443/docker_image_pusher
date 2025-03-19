@@ -1,5 +1,1 @@
-mysql:5.7
-redis:7.2-alpine
-mongo:4.4
-nginx:1.26
-node:16.19.1-alpine
+php:7.1
